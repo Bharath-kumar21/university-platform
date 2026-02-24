@@ -16,7 +16,7 @@ import './App.css';
 function App() {
   return (
     <SavedProvider>
-      <Router>
+      <Router basename="/university-platform">
         <div style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}>
           <Navbar />
           <main style={{ flex: 1 }}>
