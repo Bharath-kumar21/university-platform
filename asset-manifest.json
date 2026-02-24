@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/university-platform/static/css/main.6ad809f2.css",
+    "main.js": "/university-platform/static/js/main.a98e09b8.js",
+    "static/js/453.44d9cbf9.chunk.js": "/university-platform/static/js/453.44d9cbf9.chunk.js",
+    "index.html": "/university-platform/index.html",
+    "main.6ad809f2.css.map": "/university-platform/static/css/main.6ad809f2.css.map",
+    "main.a98e09b8.js.map": "/university-platform/static/js/main.a98e09b8.js.map",
+    "453.44d9cbf9.chunk.js.map": "/university-platform/static/js/453.44d9cbf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad809f2.css",
+    "static/js/main.a98e09b8.js"
+  ]
+}
